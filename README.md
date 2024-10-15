@@ -1,5 +1,16 @@
 Project Title: Easy-Fit Public
 
+# easy-fit
+
+**Description:** This library allows you to parse .FIT files easily using JavaScript. It's particularly useful for developers working with fitness tracking data.
+
+## Installation
+To install the library, use npm:
+
+```bash
+npm install easy-fit --save
+
+
 Project Overview:
 
 Easy-Fit Public is a web-based application designed to provide a user-friendly platform for gym-goers to find and book fitness classes, personal training sessions, and equipment usage. The application aims to streamline the fitness experience, making it easy for users to achieve their fitness goals.
